@@ -104,9 +104,8 @@ Hierbei sind die Tagesordnung bekanntzugeben und die nötigen Informationen zug�
 Anträge zur Tagesordnung sind mindestens drei Tage vor der Mitgliederversammlung bei der Geschäftsstelle einzureichen.  
 Über die Behandlung von Initiativanträgen entscheidet die Mitgliederversammlung.  
   
-c) Die Mitgliederversammlung ist beschlussfähig wenn mindestens fünfzehn Prozent aller Mitglieder anwesend sind oder durch Vollmacht vertreten sind.  
-Beschlüsse sind jedoch gültig, wenn die Beschlussfähigkeit vor der Beschlussfassung nicht angezweifelt worden ist.  
-  
+c) Jede ordnungsgemäß einberufene Mitgliederversammlung ist unabhängig von der Zahl der erschienenen Mitglieder beschlussfähig.
+ 
 d) Beschlüsse über Satzungsänderungen und über die Auflösung des Vereins bedürfen zu ihrer Rechtswirksamkeit der Dreiviertelmehrheit der anwesenden Mitglieder bzw. durch Vollmacht vertretenen Mitglieder.  
 In allen anderen Fällen genügt die einfache Mehrheit.  
   
