@@ -123,7 +123,7 @@ Das Protokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten 
 
 ## §9 Vorstand
 
-a) Der Vorstand besteht aus einem Vorsitzenden (“1. Vorstand”), einem Schatzmeister (“Kassenwart”) und einem Schriftführer.  
+a) Der Vorstand besteht aus drei gleichberechtigten Personen. Wovon eine von der Mitgliderversammlung als Schatzmeister bestellt wird.  
   
 b) In den Vorstand dürfen nur natürliche Personen gewählt werden.  
   
