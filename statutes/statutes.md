@@ -140,7 +140,6 @@ g) Der Schatzmeister überwacht die Haushaltsführung und verwaltet das Vermöge
 Mit dem Ablauf des Geschäftsjahres stellt er unverzüglich die Abrechnung, sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichem Belangen den Finanzprüfern des Vereins zur Prüfung zur Verfügung.  
   
 h) Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig.  
-Sie haben Anspruch auf Erstattung notwendiger Auslagen im Rahmen einer von der Mitgliederversammlung zu beschliessenden Richtlinie über die Erstattung von Reisekosten und Auslagen.  
 
 ## §10 Der wissenschaftliche Beirat
 Der Vorstand kann einen ”Wissenschaftlichen Beirat” einrichten, der für den Verein beratend und unterstützend tätig wird.  
